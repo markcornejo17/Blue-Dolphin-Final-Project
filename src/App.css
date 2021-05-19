@@ -1,7 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
 
 * {
-  font-family: "Bebas Neue", cursive;
+  font-family: "Oswald", sans-serif;
+}
+
+.alert {
+  margin-left: 41%;
+  margin-right: 41%;
 }
 
 /* below code is for the MainScreen */
@@ -104,7 +109,7 @@ hr {
 }
 
 .blur-words {
-  margin-left: 50px;
+  margin-left: 18px;
   font-size: 33px;
 }
 
